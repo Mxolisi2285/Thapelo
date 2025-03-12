@@ -7,7 +7,7 @@ on:
       - Feature # Restrict the workflow to the Feature branch only 
   pull_request:
     branches:
-      - main # Allow pull requests targeting the main branch
+      - main # Allow pull requests targeting the main branch 
 
 jobs:
   build-angular-app:
