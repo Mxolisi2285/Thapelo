@@ -1,4 +1,4 @@
-name: Angular CI Pipeline
+name: Angular  Pipeline
 
 on:
   push:
